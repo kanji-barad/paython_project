@@ -125,6 +125,5 @@ Company.change_ceo('chetan')
 Company.acess_cls()
 
    
-Company.change_ceo('chetan')
-Company.acess_cls()
+
 
